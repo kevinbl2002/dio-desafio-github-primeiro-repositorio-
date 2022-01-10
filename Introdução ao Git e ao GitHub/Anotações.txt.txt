@@ -1,6 +1,4 @@
-Link para Download do Git: https://git-scm.com/downloads
 Ao baixar o Git, vc usara o Git Bash como terminal extendido para otimizar o uso do Git
-
 
 Alguns comandos básicos para ter um bom desempenho no terminal do windows:
 -Mudar de pastas: Utilizamos o "cd" e o nome da pasta para entrar em uma pasta expecífica por exemplo "cd windows", com isso vc estara entrando na pasta windows. Se utilizarmos o "cd .." voltaremos para a pasta anterior, ou seja se estavamos na base do disco local C usando o comando "cd windows" nos iriamos para a psta windows e usando o "cd .." voltariamos para a base do disco local C.
