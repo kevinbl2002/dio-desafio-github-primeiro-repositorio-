@@ -3,7 +3,7 @@
 Repositório criado para o Desafio de Projeto
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [Link para Download do Git](https://git-scm.com/downloads)
 
