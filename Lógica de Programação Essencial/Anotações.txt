@@ -1,1 +1,1 @@
-Para melhor compreender a programar, você precisa primeiro entender de Logica de Programação. Então para isso acontecer vc deve aprender a utilizar tanto o Flowgorithm 
+Para melhor compreender a programar, você precisa primeiro entender de Logica de Programação. Então para isso acontecer você deve aprender a utilizar o Flowgorithm que vai fazer você enteder como funciona a sequência lógica e coerente do fluxo de dados. Já com o Portugol você aprende de forma mais fácil a desenvolver algoritmos estruturados em português, independentemente da linguaguem de programação.
