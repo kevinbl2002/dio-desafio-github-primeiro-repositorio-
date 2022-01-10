@@ -7,3 +7,7 @@ Repositório criado para o Desafio de Projeto
 
 [Link para Download do Git](https://git-scm.com/downloads)
 
+[Link para Download do Portugol Studio](http://lite.acad.univali.br/portugol/)
+
+[Link para Download do Flowgorithm](http://www.flowgorithm.org/download/index.html)
+
